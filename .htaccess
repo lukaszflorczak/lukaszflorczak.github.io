@@ -1,0 +1,5 @@
+RewriteEngine On
+Options +FollowSymLinks
+
+Redirect 302 /index.html https://lukaszflorczak.github.io/vue-agile
+Redirect 302 / https://lukaszflorczak.github.io/vue-agile
